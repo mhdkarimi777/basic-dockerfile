@@ -1,6 +1,6 @@
 https://roadmap.sh/projects/basic-dockerfile
 
 
-git clone https://github.com/mhdkarimi777/basic-dockerfile.git
-docker build -t hello .
-docker container run hello "name
+1. git clone https://github.com/mhdkarimi777/basic-dockerfile.git
+2. docker build -t hello .
+3. docker container run hello "name
